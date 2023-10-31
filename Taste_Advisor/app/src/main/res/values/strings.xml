@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tasty Advisor</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipies_fragment">Recipies</string>
+    <string name="favorite_fragment">Favorites</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="main_course">Main Course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="salad">Salad</string>
+    <string name="apperizer">Appetizer</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="apply">Apply</string>
+    <string name="cheap">Cheap</string>
+    <string name="healthy">Healthy</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="no_favorite_recipes">No Favorite Recipes</string>
+</resources>
